@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Another Remote Update Sourcetree
+          Learn React
         </a>
       </header>
     </div>
